@@ -102,3 +102,10 @@ p {
   width: 100px;
   margin: 5px;
 }
+main a, footer a {
+  color: #003366;
+}
+
+main a:visited, footer a:visited {
+  color: #551a8b;
+}
